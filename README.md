@@ -3,7 +3,7 @@
 I study at Hexlet College. Interested in learning and exploring more about Data Science, Information Security and DevOps.
 
 ## Tech Stack:
-* Python
+* Python, Java, Kotlin, Rust (Can hello world)
 
 ## Statistics
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kr1sal&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
